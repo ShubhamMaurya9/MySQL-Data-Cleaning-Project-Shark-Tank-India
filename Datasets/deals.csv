@@ -1,0 +1,118 @@
+episode,pitch_no,company,deal,ashneer,namita,anupam,vineeta,aman,peyush,ghazal
+1,1,BluePine Industries,75 lakhs for 18% equity,Y,N,N,Y,Y,N/A,N/A
+1,2,Booz scooters,40 lakhs for 50% equity,Y,N,N,Y,N,N/A,N/A
+1,3,Heart up my Sleeves,25 lakhs for 30% equity,N,N,Y,Y,N,N/A,N/A
+2,4,Tagz Foods,No Deal,Y,N,N,N,N,N/A,N/A
+2,5,Head and Heart,No Deal,N,N,N,N,N,N/A,N/A
+2,6,Agro tourism,No Deal,N,N,N,N,N,N/A,N/A
+3,7,Qzense Labs,No Deal,N,N,N,N,N,N/A,N/A
+3,8,Peeschute,75 lakhs for 6% equity,N,N,N,N,Y,N/A,N/A
+3,9,NOCD,20 lakhs for 15% equity and 30 lakhs debt,N,N,N,Y,N,N/A,N/A
+4,10,Cosiq,No Deal,N,N,Y,Y,N,N/A,N/A
+4,11,JhaJi Achaar,No Deal,N,N,N,N,N,N/A,N/A
+4,12,Bummer,75 lakhs for 7.5% equity,N,Y,N,N,Y,N/A,N/A
+5,13,Revamp Moto,No Deal,N,N,Y,N,Y,N/A,N/A
+5,14,Hungry Heads,No Deal,N,N,N,N,N,N/A,N/A
+5,15,Shrawani Engineers,No Deal,N,N,N,N,N,N/A,N/A
+6,16,Skippi Pops,No Deal,Y,Y,Y,Y,Y,N/A,N/A
+6,17,Menstrupedia,50 lakhs for 20% equity,N,Y,N,N,N,N/A,N/A
+6,18,Hecolll,No Deal,N,N,N,N,N,N/A,N/A
+7,19,Raising Superstars,No Deal,Y,N,N,N,Y,N/A,N/A
+7,20,Torch-it,No Deal,N,N,N,N,N,N/A,N/A
+7,21,La Kheer Delhi,No Deal,N,N,N,N,N,N/A,N/A
+8,22,Beyond Snack,No Deal,Y,N,N,N/A,Y,N,N/A
+8,23,Vivalyf Innovations- Easy Life,56 lakhs for 33.33% equity,N,N,Y,N/A,N,Y,N/A
+8,24,Motion Breeze,30 lakhs for 6% equity,Y,N,N,N/A,N,N,N/A
+9,25,Altor,No Deal,N,Y,N,N/A,Y,N,N/A
+9,26,Ariro,50 lakhs for 10% equity,N,N,N,N/A,Y,Y,N/A
+9,27,Kabira Handmade,No Deal,N,N,N,N/A,N,N,N/A
+10,28,Nuutjob,No Deal,N,Y,N,N/A,Y,Y,N/A
+10,29,Meatyour,30 lakhs for 20% equity,N,N,Y,N/A,Y,Y,N/A
+10,30,EventBeep,30 lakhs for 3% equity,Y,N,N,N/A,Y,Y,N/A
+11,31,Gopal's 56,No Deal,N,N,N,N/A,N,N,N/A
+11,32,ARRCOAT Surface Textures,50 lakhs for 15% equity,N,N,Y,N/A,N,N,N/A
+11,33,Farda,30 lakhs for 20% equity,N,Y,N,N/A,Y,N,N/A
+12,34,Auli Lifestyle,No Deal,N,Y,N,N/A,N,N,N/A
+12,35,SweeDesi,No Deal,N,N,N,N/A,N,N,N/A
+12,36,LOKA,40 lakhs for 24% equity,N,N,Y,N/A,Y,Y,N/A
+13,37,Annie,No Deal,N,Y,Y,N/A,N,Y,N/A
+13,38,Caragreen,50 lakhs for 20% equity,N,N,Y,N/A,N,Y,N/A
+13,39,The Yarn Bazaar,1 crore for 10% equity,Y,N,Y,N/A,Y,Y,N/A
+14,40,The Renal Project,No Deal,N,Y,N,N/A,Y,N,N/A
+14,41,Morikko Pure Foods,No Deal,N,N,N,N/A,N,N,N/A
+14,42,Good Good Piggy Bank,No Deal,N,N,N,N/A,N,N,N/A
+15,43,Hammer Lifestyle,No Deal,N,N,N,N/A,Y,N,N/A
+15,44,PNT,25 lakhs for 25% equity and ₹25 lakhs debt,N,N,N,N/A,N,Y,N/A
+15,45,Cocofit,5 for 5% equity,N,Y,Y,N/A,Y,N,N/A
+16,46,Bamboo India,No Deal,Y,N,Y,N/A,N,N,N/A
+16,47,Flying Furr,No Deal,N,N,N,N/A,N,N,N/A
+16,48,Beyond Water,75 lakhs for 15% Equity,N,Y,N,N/A,Y,N,N/A
+16,49,Let's Try,45 lakhs for 12% Equity,N,N,Y,N/A,Y,N,N/A
+17,50,Find Your Kicks India,No Deal,Y,Y,Y,N/A,Y,Y,N/A
+17,51,Aas Vidyalaya,1.5 Crore for 15% Equity,Y,Y,N,N/A,N,Y,N/A
+17,52,Outbox,No Deal,N,N,N,N/A,N,N,N/A
+17,53,RoadBounce,80 Lakhs for 20% Equity,N,N,N,N/A,N,Y,N/A
+18,54,Mommy's Kitchen,No Deal,N,N,N,N/A,N,N,N/A
+18,55,India Hemp and Co,No Deal,N,N,N,N/A,N,N,N/A
+18,56,Otua,1 lakh for 1% equity and 99 lakhs Debt,Y,N,N,N/A,N,N,N/A
+18,57,Anthyesti,No Deal,N,N,N,N/A,N,N,N/A
+19,58,Ethik,No Deal,N,N,N,N/A,N,N,N/A
+19,59,WeSTOCK,60 lakhs for 10% equity,Y,Y,N,N/A,Y,Y,N/A
+19,60,KetoIndia,No Deal,N,N,N,N/A,N,N,N/A
+19,61,Magic lock,No Deal,N,N,N,N/A,N,N,N/A
+20,62,The State Plate,No Deal,N,N,N,N/A,N,Y,N/A
+20,63,Bakarmax,No Deal,N,N,N,N/A,N,N,N/A
+20,64,IN A CAN,1 Crore for 10% equity,Y,Y,Y,N/A,Y,Y,N/A
+21,65,Get a Whey,No Deal,Y,N/A,N,Y,Y,N,N/A
+21,66,Sid 07 Designs,25 Lakhs for 75% equity & 22 lakhs Debt,N,N/A,N,N,N,Y,N/A
+21,67,The Quirky Nari,35 lakhs for 24% equity,N,N/A,Y,Y,N,N,N/A
+22,68,Hair Originals,No Deal,Y,N/A,Y,N,N,Y,N/A
+22,69,Poo de Cologne,No Deal,N,N/A,N,N,N,N,N/A
+22,70,Moonshine Meads,No Deal,N,N/A,N,N,N,N,N/A
+22,71,Falhari,No Deal,N,N/A,N,N,N,N,N/A
+23,72,Namhya Foods,No Deal,N,N/A,N,N,Y,N,N/A
+23,73,Urban Monkey,No Deal,N,N/A,N,N,N,N,N/A
+23,74,Guardian Gears,No Deal,N,N/A,N,N,N,N,N/A
+23,75,Modern Myth,No Deal,N,N/A,N,N,N,N,N/A
+24,76,The Sass Bar,50 lakhs for 35% Equity,N/A,N,Y,N,N/A,N,Y
+24,77,KG Agrotech,10 lakhs for 40% Equity & 20 lakhs Debt,N/A,N,N,N,N/A,Y,N
+24,78,Nuskha Kitchen,No Deal,N/A,N,N,N,N/A,N,N
+25,79,PawsIndia,No Deal,N/A,N,Y,N,N/A,N,N
+25,80,Sunfox Technologies,1 crore for 6% Equity,N/A,Y,Y,Y,N/A,Y,Y
+25,81,Alpino,No Deal,N/A,N,N,N,N/A,N,N
+26,82,Isak Fragrances,No Deal,N/A,N,N,N,N/A,Y,N
+26,83,Julaa Automation,No Deal,N/A,N,N,N,N/A,N,N
+26,84,Rare Planet,65 lakhs for 3% Equity,N/A,Y,N,N,N/A,N,N
+27,85,Theka Coffee,No Deal,N/A,N,N,N,N/A,N,N
+27,86,Watt Technovations,101 for 4% Equity,N/A,Y,Y,N,N/A,Y,Y
+27,87,Aliste Technologies,No Deal,N/A,N,N,N,N/A,N,N
+27,88,Insurance Samadhan,1 Crore for 4% Equity,N/A,N,N,N,N/A,Y,N
+28,89,Humpy A2,No Deal,N/A,N,N,Y,N/A,Y,Y
+28,90,Kunafa World,No Deal,N/A,N,N,N,N/A,N,N
+28,91,Gold Safe Solutions Ind.,50 lakhs for 30% Equity,N/A,N,N,Y,N/A,Y,Y
+29,92,Wakao Foods,No Deal,N/A,Y,N,Y,N/A,N,Y
+29,93,PDD Falcon,No Deal,N/A,N,N,N,N/A,N,N
+29,94,PlayBox TV,No Deal,N/A,N,N,N,N/A,N,N
+30,95,Sippline Drinking Shields,No Deal,N,N,N,N,N,N/A,N/A
+30,96,Kabaddi Adda,80 lakhs for 6% Equity,N,Y,N,Y,N,N/A,N/A
+30,97,Shades of Spring,No Deal,N,N,N,N,N,N/A,N/A
+30,98,Scholify,No Deal,N,N,N,N,N,N/A,N/A
+31,99,Scrapshala,No Deal,N,N,N,N,N,N/A,N/A
+31,100,Sabjikothi,No Deal,N,N,N,N,N,N/A,N/A
+31,101,AyuRythm,75 lakhs for 2.68% Equity,N,N,N,N,Y,N/A,N/A
+31,102,Astrix,No Deal,N,N,N,N,N,N/A,N/A
+32,103,Thea and Sid,No Deal,N,N,N,N/A,N,N,N/A
+32,104,Experential Etc,No Deal,N,N,N,N/A,N,N,N/A
+32,105,GrowFitter,50 lakhs for 2% Equity,N,N,N,N/A,Y,N,N/A
+32,106,Med Tech,No Deal,N,N,N,N/A,N,N,N/A
+33,107,Colour Me Mad,No Deal,N,Y,N,N/A,N,N,N/A
+33,108,Mavi's,No Deal,N,N,N,N/A,N,N,N/A
+33,109,Tweek Labs,60 lakhs for 10% Equity,Y,N,Y,N/A,N,Y,N/A
+33,110,Proxgy,1 crore for 10% Equity,Y,N,N,N/A,N,Y,N/A
+34,111,Nomad Food Project,40 lakhs for 20% Equity,Y,Y,N,Y,N,N,Y
+34,112,Twee in One,No Deal,N,N,N,N,N,N,N
+34,113,Green Protein,No Deal,N,N,N,N,N,N,N
+34,114,On2Cook,No Deal,N,N,N,N,N,N,N
+35,115,Jain Shikanji,40 lakhs for 30% Equity,Y,N,Y,Y,Y,N,N
+35,116,Woloo,No Deal,N,N,N,N,N,N,N
+35,117,Elcare India,No Deal,N,N,N,N,N,N,N
